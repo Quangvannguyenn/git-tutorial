@@ -1,3 +1,4 @@
+print("main file")
 print("ok")
 print("ok test track")
 
